@@ -1,0 +1,186 @@
+[01-04-2022 17:01:28] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para lrios@yahoo.com
+[01-04-2022 17:01:33] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para christopher.zaragoca@mares.com.br
+[01-04-2022 17:01:39] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para edominato@branco.net.br
+[01-04-2022 17:01:45] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para ortiz.horacio@terra.com.br
+[01-04-2022 17:01:51] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para darosa.sergio@galhardo.org
+[01-04-2022 17:01:57] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para ariadna.dominato@pena.com
+[01-04-2022 17:02:03] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para maximiano.perez@gomes.net
+[01-04-2022 17:02:09] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para antonio.velasques@ig.com.br
+[01-04-2022 17:02:16] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para vila.adriano@r7.com
+[01-04-2022 17:02:23] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para agrego@terra.com.br
+[01-04-2022 17:02:30] [NOTICE]
+	SCRIPT: Email.php
+	NOTICE - Email enviado para eprado@salazar.com.br
+[01-04-2022 17:09:22] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:09:22] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'error' com as informações: {"{{ERROR}}":"P\u00e1gina n\u00e3o encontrada"}
+[01-04-2022 17:13:18] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:15:28] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:15:41] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:15:53] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:16:15] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:16:55] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:16:55] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:19:27] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:19:31] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:19:31] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:19:31] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:21:16] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:22:11] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:22:11] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:22:11] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:23:20] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:23:23] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:23:23] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'error' com as informações: {"{{ERROR}}":"P\u00e1gina n\u00e3o encontrada"}
+[01-04-2022 17:23:26] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:23:32] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:23:32] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:23:32] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:23:39] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:23:39] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:23:39] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:24:29] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:24:32] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:24:32] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:24:32] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:24:46] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:24:50] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:24:50] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:24:50] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{SUCCESS}}":"Arquivo enviado com sucesso!","hidden-success":"","hidden-error":"hidden"}
+[01-04-2022 17:25:43] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:25:48] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action preenchido
+[01-04-2022 17:25:48] [NOTICE]
+	SCRIPT: index.php
+	NOTICE - action upload executando..
+[01-04-2022 17:25:48] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"{{ERROR}}":"O arquivo deve ser um XML!","hidden-error":"","hidden-success":"hidden"}
+[01-04-2022 17:26:39] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:27:04] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:27:06] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:29:04] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:29:39] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:29:47] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:29:55] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:31:38] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:32:01] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:32:12] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:32:52] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
+[01-04-2022 17:33:03] [NOTICE]
+	SCRIPT: Viewer.php
+	NOTICE - chamando template 'index' com as informações: {"hidden-success":"hidden","hidden-error":"hidden"}
