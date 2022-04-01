@@ -18,10 +18,20 @@ Decidi realizar o sistema dessa forma, pois na minha concepção facilitaria o p
 Gostaria te ter mais tempo para desenvolver um painel de gestão dos cadastros existem no banco, bem como adicionar testes unitários com o PHPUnit e mais logs.
 
 Sobre os logs: 
+
 Foi desenvolvido uma classe para salvar os logs de todo o processo, a classe pode ser vista aqui: 
+
 [Classe Logger](https://github.com/Erivks/allBlacks-teste/blob/main/src/Logger.php)
 
 ---
+
+## Instrução
+
+Execute o comando a seguir para instalar as dependencias
+
+```shell
+composer install
+```
 
 ## Packages utilizados :books:
 
@@ -54,6 +64,7 @@ Foi desenvolvido uma classe para salvar os logs de todo o processo, a classe pod
 │   └── Viewer.php (Classe para denifir o que será mostrado)
 ├── composer.json
 ├── index.php (Arquivo de rotas)
+├── p21.sql (Arquivo para criação da base e da tabela)
 ├── system.log (Arquivo para registro de log)
 ```
 
