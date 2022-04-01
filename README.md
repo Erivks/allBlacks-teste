@@ -17,13 +17,15 @@ Decidi realizar o sistema dessa forma, pois na minha concepção facilitaria o p
 
 Gostaria te ter mais tempo para desenvolver um painel de gestão dos cadastros existem no banco, bem como adicionar testes unitários com o PHPUnit e mais logs.
 
-Sobre os logs: Foi desenvolvido uma classe para salvar os logs de todo o processo, a classe pode ser vista aqui: [Classe Logging](https://github.com/Erivks/la-carte/blob/master/app/Config.php)
+Sobre os logs: 
+Foi desenvolvido uma classe para salvar os logs de todo o processo, a classe pode ser vista aqui: 
+[Classe Logger](https://github.com/Erivks/allBlacks-teste/blob/main/src/Logger.php)
 
 ---
 
 ## Packages utilizados :books:
 
-- PHPMailer (Para envio de email) - [Documentação](https://twig.symfony.com/doc/3.x/)
+- PHPMailer (Para envio de email) - [Documentação](https://github.com/PHPMailer/PHPMailer)
 
 ---
 
@@ -44,8 +46,8 @@ Sobre os logs: Foi desenvolvido uma classe para salvar os logs de todo o process
 │   │   └── Torcedor.php
 │   ├── templates
 │   │   ├── view
-|   │   │   └── error.tpl.html
-|   │   │   └── index.tpl.html
+│   │   │   └── error.tpl.html
+│   │   │   └── index.tpl.html
 │   ├── Config.php (Configurações globais [banco de dados, funções, etc])
 │   ├── Logger.php (Classe para adição de log)
 │   ├── Router.php (Classe para roteamento)
